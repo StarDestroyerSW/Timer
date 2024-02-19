@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+.container {
+    text-align: left;
+    margin: 40px 40px 40px 30px;
+}
+
+h1 {
+    font-size: 100px; /* Increase the font size */
+    color: #555;
+    width: 600px; /* Set a fixed width */
+    margin: 0px 0px 70px 0px; /* Center horizontally */
+    line-height: 1; /* Ensure proper vertical alignment */
+}
+
+p {
+    font-size: 30px; /* Increase the font size */
+    color: #555;
+    width: 600px; /* Set a fixed width */
+    margin: 0px 0px 0px 0px; /* Center horizontally */
+    line-height: 1; /* Ensure proper vertical alignment */
+}
